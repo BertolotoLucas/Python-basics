@@ -1,0 +1,4 @@
+Uma nova linha criada no novo arquivo
+Uma nova linha2 criada no novo arquivo
+Uma nova linha3 criada no novo arquivo
+Uma nova linha adicionada ao final do arquivo!
